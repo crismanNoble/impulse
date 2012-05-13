@@ -1,3 +1,31 @@
-html, body {
-	padding: none;
+html {
+	font-size: 100%;
+	-webkit-text-size-adjust: 100%;
 }
+
+html, button, input, select, textarea {
+	font-family: sans-serif;
+	color: #222;
+}
+
+body {
+	color: #222;
+	font-size: 1em;
+	line-height: 1.4;
+}
+
+::-moz-selection { background: #b3d4fc; text-shadow: none; }
+::selection { background: #b3d4fc; text-shadow: none; }
+
+img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; }
+svg:not(:root) { overflow: hidden; }
+
+a { color: #00e; }
+a:visited { color: #551a8b; }
+a:hover { color: #06e; }
+a:focus { outline: thin dotted; }
+
+/* Improve readability when focused and hovered in all browsers: h5bp.com/h */
+a:hover, a:active { outline: 0; }
+
+textarea { overflow: auto; vertical-align: top; resize: vertical; }
