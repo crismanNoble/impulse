@@ -1,7 +1,7 @@
 impulse
 =======
 
-*I made **[impulse](https://github.com/crismanNoble/impulse)** because despite the great boilerplates out there, I always spend too much time setting up my files when making a demo.*
+I made [impulse](https://github.com/crismanNoble/impulse) because despite the great boilerplates out there, I always spend too much time setting up my files when making a demo.*
 
 [From Wikipedia:](http://en.wikipedia.org/wiki/Impulse_(physics))
 >Impulse is:  
